@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "187759309382",
+    "project_id": "tohfa-database",
+    "storage_bucket": "tohfa-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187759309382:android:490747aee0b6a7ceead047",
+        "android_client_info": {
+          "package_name": "com.project.tohfa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMV551FloszXpLgjCCJeF8FSibu-BI4Gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
